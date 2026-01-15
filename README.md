@@ -1,6 +1,6 @@
 # SwiftCart 🛒
 
-SwiftCart is a fully functional **e-commerce web application** built using **HTML, CSS, and Vanilla JavaScript**.  
+SwiftCart is a fully functional **e-commerce web application** built using **HTML, CSS, and JavaScript**.  
 The project focuses on **real-world frontend architecture**, dynamic data handling, and scalable design principles.
 
 ## 🚀 Features
@@ -28,7 +28,7 @@ The project focuses on **real-world frontend architecture**, dynamic data handli
 - Separation of concerns for scalability
 
 ## 🌐 Live Demo
-https://amazon-js-sooty.vercel.app/
+https://swiftcart-sooty.vercel.app/
 
 ## 📂 Future Enhancements
 - Product search and category filtering
