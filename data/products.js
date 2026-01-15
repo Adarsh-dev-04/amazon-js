@@ -24,7 +24,7 @@ class Product{
     return '';
   }
 }
-import { loadingAnimationStart,loadingAnimationEnd } from "../scripts/amazon.js";
+import { loadingAnimationStart,loadingAnimationEnd } from "../scripts/SwiftCart.js";
 class Clothing extends Product{
   sizeChartLink;
   constructor(productDetails)
